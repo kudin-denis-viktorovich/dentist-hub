@@ -1,5 +1,6 @@
 # dentist-hub
 The project is about conecting all dentists of the world in a community. Any dentist can register and add their bio and portfolio.
+
 Стоматолог Кудин Денис Викторович
 Стаж работы: 24 года. Кандидат медицинских наук.
 Специализация:
