@@ -19,3 +19,6 @@ The project is about conecting all dentists of the world in a community. Any den
 Штатный врач кафедры ГОС МГМСУ до 2014 года.
 
 В 2003 году защитил кандидатскую диссертацию “Комплексное лечение заболеваний пародонта с использованием нового химического аналога мелатонина”.
+<a href="https://www.mozilla.com">
+  Mozilla
+</a>
