@@ -1,7 +1,7 @@
 # dentist-hub
 The project is about conecting all dentists of the world in a community. Any dentist can register and add their bio and portfolio.
 
-Стоматолог Кудин Денис Викторович
+Стоматолог <a href="https://stomatolog-kudin-denis.ru">Кудин Денис Викторович</a>
 Стаж работы: 24 года. Кандидат медицинских наук.
 Специализация:
 – Ортопедическая стоматология
@@ -19,6 +19,4 @@ The project is about conecting all dentists of the world in a community. Any den
 Штатный врач кафедры ГОС МГМСУ до 2014 года.
 
 В 2003 году защитил кандидатскую диссертацию “Комплексное лечение заболеваний пародонта с использованием нового химического аналога мелатонина”.
-<a href="https://www.mozilla.com">
-  Mozilla
-</a>
+
